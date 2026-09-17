@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme {
+  --color-black: #050505;
+  --color-neutral-900: #121212;
+  --color-neutral-800: #202020;
+}
+
+body {
+  background-color: var(--color-black);
+  color: white;
+  -webkit-tap-highlight-color: transparent;
+}

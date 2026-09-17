@@ -1,0 +1,6 @@
+{
+  "name": "GYM STREAK",
+  "description": "Consistency beats motivation. A clean, simple workout tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
