@@ -5,6 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    base:'/Gym_Streak_Web_APP/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
